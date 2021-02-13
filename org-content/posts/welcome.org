@@ -10,12 +10,15 @@
 #+hugo_custom_front_matter: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
 #+hugo_draft: false
 * Welcome
-** As part of updating the Emacs-SF github organization's meetup-notes repository,
-I've enabled the Discussions tab there, and the wiki pages are now publicly editable.
-I've also created the Emacs-SF.github.io repository for publishing the blog.
-And I've created the ox-hugo-blog-content repository for the actual org files that
-the blog posts are generated from.
-
+** What's new
+As part of updating the Emacs-SF github organization's meetup-notes repository:
+- I've enabled the [[https://github.com/Emacs-SF/meetup-notes/discussions][Discussions tab]] there, and the [[https://github.com/Emacs-SF/meetup-notes/wiki][Wiki pages]] are now publicly editable.
+- I've also created the [[https://github.com/Emacs-SF/Emacs-SF.github.io][Emacs-SF.github.io repository]] for publishing this blog.
+- I've created the [[https://github.com/Emacs-SF/Emacs-SF.github.io][ox-hugo-blog-content repository]] for the actual org files that the blog posts are generated from.
+** In progress
+- customizing the site; adding a sidebar with categories/tags
+- adding meta content
+- linking to [[https://github.com/Emacs-SF/meetup-notes][meeting notes]]
 * Footnotes
 * COMMENT Local Variables                                           :ARCHIVE:
   # Local Variables:
