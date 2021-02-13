@@ -1,0 +1,23 @@
+#+hugo_base_dir: ../../
+#+hugo_weight: 2001
+#+hugo_auto_set_lastmod: t
+#+title: Welcome
+#+date: 2021-02-13
+#+author: Mike Wright
+#+hugo_tags: general
+#+hugo_categories: community
+#+hugo_menu: :menu "main" :weight 2001
+#+hugo_custom_front_matter: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
+#+hugo_draft: false
+* Welcome
+** As part of updating the Emacs-SF github organization's meetup-notes repository,
+I've enabled the Discussions tab there, and the wiki pages are now publicly editable.
+I've also created the Emacs-SF.github.io repository for publishing the blog.
+And I've created the ox-hugo-blog-content repository for the actual org files that
+the blog posts are generated from.
+
+* Footnotes
+* COMMENT Local Variables                                           :ARCHIVE:
+  # Local Variables:
+  # org-hugo-footer: "\n\n[//]: # "Exported with love from a post written in Org mode"\n[//]: # "- https://github.com/kaushalmodi/ox-hugo""
+  # End:
