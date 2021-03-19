@@ -49,7 +49,7 @@ Some useful links (now available in the footer of our wiki pages) are:
 Thanks to Sacha Chua and Leo Vivier for their help with video recording, post-processing, and subtitles (and inspiration).
 
 ** In Progress
-- still need to add [[http://localhost:1313/categories/][categories]] and [[http://localhost:1313/tags/][tags]] to the sidebar, read-more links, etc. to this blog
+- still need to add [[https://emacs-sf.github.io/categories][categories]] and [[https://emacs-sf.github.io/tags/][tags]] to the sidebar, read-more links, etc. to this blog
 - editing subtitles on recorded demo videos, publishing videos publicly on Emacs SF YouTube channel
 - adding gists, snippets, presentations
 - documenting blog workflow for guest authors
