@@ -2,3 +2,7 @@ baseURL = "http://Emacs-SF.github.io/"
 languageCode = "en-us"
 title = "Emacs SF Blog"
 theme = "hugo-theme-zen"
+[params]
+  cookieConsent = true
+  copyright = "(c) 2021 by the Emacs SF Blog Authors. All Rights Reserved."
+  poweredby = true
