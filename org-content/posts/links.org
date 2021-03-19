@@ -1,0 +1,58 @@
+#+hugo_base_dir: ../../
+#+hugo_weight: 2001
+#+hugo_auto_set_lastmod: t
+#+title: Links
+#+date: 2021-03-19
+#+author: Mike Wright
+#+hugo_tags: emacs links
+#+hugo_categories: reference
+#+hugo_menu: :menu "main" :weight 2001
+#+hugo_draft: false
+* Emacs SF Links
+[Announcing updated content, navigation links, thanks for video help, and work in progress]
+** Announcements
+- Our [[https://www.meetup.com/Emacs-SF/events/276954899][next scheduled meetup]] is on Thursday 1 April 2021 at 10:00am PDT UTC-7
+
+*** Post COVID-19 Plans
+- Jeff is interested in resuming the face-to-face evening meetups (with formal presentations recorded) in San Francisco and Silicon Valley
+- Jeff and Mike are interested in resuming the face-to-face weekend meetups (informal discussion groups) in San Francisco, Oakland, and Walnut Creek.
+- Jeff and Mike are interested in continuing virtual/online meetups on weekday mornings (and possibly evenings) with recorded demos, lightning talks, and general discussions.
+  
+** Updates
+- I've updated some recent meeting notes on [[https://github.com/Emacs-SF][github]] (see below),
+  the [[https://github.com/Emacs-SF/meetup-notes/wiki/Backlog][backlog]] and [[https://github.com/Emacs-SF/meetup-notes/wiki/Upcoming-events][upcoming events]] on our [[https://github.com/Emacs-SF/meetup-notes/wiki][wiki]],
+  and I am preparing to publish videos on our [[https://www.youtube.com/channel/UCFk8kgNu_bqsRZewxMGqkzQ][YouTube channel]].
+
+|---------------------------|
+| new/updated meeting notes |
+|---------------------------|
+| [[https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210319.org][19 March 2021]]             |
+|---------------------------|
+| [[https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210305.org][5 March 2021]]              |
+|---------------------------|
+| [[https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210212.org][12 February 2021]]          |
+|---------------------------|
+| [[https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210127.org][27 January 2021]]           |
+|---------------------------|
+
+** Starting Points
+Some useful links (now available in the footer of our wiki pages) are:
+- [[https://emacs-sf.github.io/][this blog]]
+- [[https://github.com/Emacs-SF/meetup-notes/discussions][discussions]]
+- [[https://github.com/Emacs-SF][github]]
+- [[https://github.com/Emacs-SF/meetup-notes][meeting notes]]
+- [[https://www.meetup.com/Emacs-SF/][meetup.com]]
+- [[https://github.com/Emacs-SF/meetup-notes/wiki][wiki]]
+- [[https://www.youtube.com/channel/UCFk8kgNu_bqsRZewxMGqkzQ][youtube]]
+
+** Thanks
+Thanks to Sacha Chua and Leo Vivier for their help with video recording, post-processing, and subtitles (and inspiration).
+
+** In Progress
+- still need to add [[http://localhost:1313/categories/][categories]] and [[http://localhost:1313/tags/][tags]] to the sidebar, read-more links, etc. to this blog
+- editing subtitles on recorded demo videos, publishing videos publicly on Emacs SF YouTube channel
+- adding gists, snippets, presentations
+- documenting blog workflow for guest authors
+- add About page
+
+I plan to update this post when the above in-progress tasks are completed.
